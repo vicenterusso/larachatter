@@ -1,8 +1,7 @@
-<img src="https://1.bp.blogspot.com/-vtmxKH8zJy8/XgveTWsEJkI/AAAAAAAAA7Q/yKslrOp0A2wj5VwrcNFF2ooR_f3bor3uwCLcBGAsYHQ/s1600/Untitled-12.png" style="width:100%;" />
-
-[![Latest Stable Version](https://poser.pugx.org/munafio/chatify/v/stable)](https://packagist.org/packages/munafio/chatify)
-[![Total Downloads](https://poser.pugx.org/munafio/chatify/downloads)](https://packagist.org/packages/munafio/chatify)
-[![License](https://poser.pugx.org/munafio/chatify/license)](https://packagist.org/packages/munafio/chatify)
+# Notes
+- Install Laravel
+- Install Breeze
+- Install Larachatter
 
 # Chatify Laravel Package
 
@@ -33,22 +32,6 @@ So, [join now](https://discord.gg/RaxyKVykYJ) and keep updated.
 - Responsive design with all devices.
 - User settings and chat customization : user's profile photo, dark mode and chat color.
   with simple and wonderful UI design.
-
-# Demo
-
-- [Live Demo](http://chatify-demo.munafio.com/)
-
-`Note: since this is a demo link, your uploaded files may be deleted after a while .. you can try then to install the (Demo app) below in your machine.`
-
-Register a new user or login using the credentials below :
-
-```
-email    : demo@e.com
-password : demo1234
-```
-
-- Demo app - [Click Here](https://github.com/munafio/chatify-demo).
-- Demo video on YouTube - [Click Here](https://youtu.be/gjo74FUJJPI)
 
 # Official Documentation
 
