@@ -1,5 +1,5 @@
 {
-  "name": "munafio/chatify",
+  "name": "vicenterusso/larachatter",
   "description": "A package for Laravel PHP Framework to add a complete real-time chat system.",
   "type": "library",
   "keywords": [
@@ -20,7 +20,7 @@
       "email": "munafaqeelmahdi@gmail.com"
     }
   ],
-  "homepage": "https://github.com/munafio/chatify",
+  "homepage": "https://github.com/vicenterusso/larachatter",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
